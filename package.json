@@ -1,0 +1,5 @@
+{
+  "name": "chromium-viking",
+  "version": "1.0.0",
+  "description": "Copies AWS credentials and saves locally"
+}
