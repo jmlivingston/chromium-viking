@@ -53,6 +53,7 @@ chrome.action.onClicked.addListener(async (tab) => {
               await saveTextToFile(credentials)
               // TODO: Figure out why this doesn't work
               // chrome.tabs.remove(tab.id)
+              window.close('', '_parent', '')
             }, 500)
           }, 1000)
         },
