@@ -26,7 +26,7 @@ This extension is not currently published to any web store, but you can add it m
 - Browse to any page, then click the extension icon to clear the cache and reload.
 - Optional - Pin the extension for easy access.
 - Click on the extension scissors icon.
-  > Note: If [https://vikingdigital.awsapps.com/start#/](https://vikingdigital.awsapps.com/start#/) is not loaded already, it will open this URL in a new tab. Once the page is loaded, you will need to click the extensions scissors icon one more time.
+  > Note: If [https://vikingdigital.awsapps.com/start#/](https://vikingdigital.awsapps.com/start#/) is not loaded already, it will open this URL in a new tab. Once the page is loaded, make sure you are logged in, then click the extensions scissors icon one more time.
 - This will open the credentials modal, then prompt the user to save locally. Be sure to save it in the correct directory using as documented in [Using AWS Credentials](https://docs.aws.amazon.com/powershell/latest/userguide/specifying-your-aws-credentials.html).
 
 > Note: This extension currently has no options.
