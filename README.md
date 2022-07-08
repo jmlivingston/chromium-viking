@@ -31,7 +31,18 @@ This extension is not currently published to any web store, but you can add it m
 
 > Note: This extension currently has no options.
 
-## Alternative Ways
+## Alternative Ways To Get Credentials
+
+If you'd prefer not to use the extension, you can follow these instructions.
+
+- Navigate to [https://vikingdigital.awsapps.com/start#/](https://vikingdigital.awsapps.com/start#/) and log in.
+- Click on AWS Account.
+- Click on on of the environments.
+- Click on "Command line or programmatic access"
+- Click Option 2. Add a profile to your AWS credentials file
+- Paste the file in your AWS credential file, but make sure the first line is `[default]` unless you're switching between profiles. See the following to see where this is on Windows, Mac, or Linux. [Using AWS Credentials](https://docs.aws.amazon.com/powershell/latest/userguide/specifying-your-aws-credentials.html)
+
+## Alternative Ways To Clear Cache
 
 - Open Developer Tools, click the "Network" tab, click the "Disable cache" checkbox, then refresh the page. Just be sure to uncheck once you're done testing.
   OR
